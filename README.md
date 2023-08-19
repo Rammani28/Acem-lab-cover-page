@@ -1,2 +1,2 @@
 # cover-page
-Feel free to use it for free
+Feel free to use it.
